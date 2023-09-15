@@ -32,13 +32,13 @@ export const themes = {
   
   dark: {
     font: "white",
-    background: "",
+    background: "black",
     navBackground: "black",
     imgShadow: "rgba(231, 237, 243, 0.35) 0px 3px 6px 3px",
     borderShadow: "rgba(231, 237, 243, 0.35) 0px -2px 6px 0px inset",
     footerBg: "black",
     cardShadow: "rgba(231, 237, 243, 0.35) 0px -2px 6px 0px inset",
-    addBtnFavBg: "#lack",
+    addBtnFavBg: "black",
     cardBg: "#2D2727",
     formBg: "#2D2727"
   }
